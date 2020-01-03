@@ -2,6 +2,7 @@
 set -e
 # 调度命令：
 # sh 日期序列.sh 2>&1
+## nohup sh 日期序列.sh > log/date_list_`date +"%F_%H_%M"`.log 2>&1 &
 
 ## 参数的默认值
 start_dt='2017-12-18'

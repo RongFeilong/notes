@@ -1,0 +1,9 @@
+
+把PPT放入浏览器中——12款用于演示的JS库
+https://jingyan.baidu.com/article/d169e1866ada68436611d8d1.html
+
+impress.js 制作PPT
+https://static.runoob.com/assets/impress-demo/index.html#/title
+
+-- 假装自己是黑客，随便疯狂打字 hackertyper
+hackcode.ishoulu.com/hackertyper/

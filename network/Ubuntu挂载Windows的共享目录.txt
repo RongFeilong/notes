@@ -1,0 +1,5 @@
+1. Ubuntu安装 cifs协议
+sudo apt-get cifs-utils
+
+2. 建目录后挂载
+sudo mount -t cifs "//10.156.46.51/pboc" -o username=rong,password=123456 /home/rong/tmp/test_pboc
